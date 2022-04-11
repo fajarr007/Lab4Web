@@ -9,3 +9,7 @@
 
 <br>Langkah pertama kita buka file yang telah kita buat, dan memasukan code perintah seprti gambar berikut:
 <br>![p](gambar/foto1.png)
+<br>Seprti biasa kalian run dan lihat hasilnya digoogle crome.
+<br>
+
+<br>Langkah kedua kita 
