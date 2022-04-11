@@ -17,3 +17,5 @@
 <br>Langkah kedua kita Mengatur "Clearfix Element" jadi ini untuk mengatur element setelah float element. Property *Clear* digunakan untuk mengaturnya.
 <br>Tambahkan element div lainnya setelah div3, dan atur juga property clear pada CSS, seperti gambar berikut:
 <br>![p](gambar/foto4.png)
+<br>Seprti biasa kalian run dan lihat hasilnya digoogle crome.
+<br>![p](gambar/foto5.png)
