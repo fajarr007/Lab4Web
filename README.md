@@ -14,4 +14,4 @@
 <br>Seprti biasa kalian run dan lihat hasilnya digoogle crome.
 <br>![p](gambar/foto3.png)
 
-<br>Langkah kedua kita 
+<br>Langkah kedua kita Mengatur "Clearfix Element" jadi ini untuk mengatur element setelah float element. Property <span style="color: orangered;">Clear</span> digunakan untuk mengaturnya.
