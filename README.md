@@ -8,3 +8,4 @@
 <br>Seperti biasa kalian buka Visual Studio Code Dileptop kalian dan lakukan seperti biasa membuat file html, yang bernama "lab4_box.html" kita akan belajar membuat Box Element.
 
 <br>Langkah pertama kita buka file yang telah kita buat, dan memasukan code perintah seprti gambar berikut:
+<br>![p](gambar/foto1.png)
