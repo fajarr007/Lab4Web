@@ -10,6 +10,6 @@
 <br>Langkah pertama kita buka file yang telah kita buat, dan memasukan code perintah seprti gambar berikut:
 <br>![p](gambar/foto1.png)
 <br>Setelah itu tambahkan **CSS Float Property** dengan cara menambahkan deklarasi CSS pada head untuk membuat float element, seperti gambar berikut:
-
+<br>![p](gambar/foto2.png)
 
 <br>Langkah kedua kita 
